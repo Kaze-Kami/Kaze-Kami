@@ -13,7 +13,7 @@ I'm sometimes wierd but mostly limited edition
 - Coffee
 - Anime
 
-# Topics I'm interested in 
+# Topics I'm interested in 📖
 - Game Engines
 - Graphics and Rendering
 - Physics and Simulations

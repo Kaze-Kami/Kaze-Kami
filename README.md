@@ -10,6 +10,7 @@ I'm sometimes wierd but mostly limited edition
   * Python
   * Java
   * Rust
+- Drones and FPV Racing
 - Coffee
 - Anime
 
@@ -18,7 +19,6 @@ I'm sometimes wierd but mostly limited edition
 - Graphics and Rendering
 - Physics and Simulations
 - Machine learning
-- Drones and FPV Racing
 - Mostly anything math and physics related
 
 <!---

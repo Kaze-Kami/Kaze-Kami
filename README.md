@@ -18,7 +18,8 @@ I'm sometimes wierd but mostly limited edition
 - Graphics and Rendering
 - Physics and Simulations
 - Machine learning
-- Mostly anything math related
+- Drones and FPV Racing
+- Mostly anything math and physics related
 
 <!---
 Kaze-Kami/Kaze-Kami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
